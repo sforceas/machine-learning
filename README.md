@@ -23,7 +23,6 @@ Ejemplos:
  
  Numpy es la principal libreria de python para el manejo de datos y la provisión de datos para machine learning.
  Es sencilla, adecuada para el manejo de arreglos y rapida.
- 
- Ver repositorio: [Algoritmos_python/ML_Numpy.ipynb]()
+ Ver repositorio de Collab: [Algoritmos_python/ML_Numpy.ipynb](https://github.com/sforceas/machine-learning/blob/master/ML_Numpy.ipynb)
 
   
