@@ -21,8 +21,13 @@ Ejemplos:
  
  # 2. Fundamentos de Numpy
  
- Numpy es la principal libreria de python para el manejo de datos y la provisión de datos para machine learning.
+ Numpy es la principal libreria de python para el manejo de arreglos.
  Es sencilla, adecuada para el manejo de arreglos y rapida.
  Ver repositorio de Collab: [Algoritmos_python/ML_Numpy.ipynb](https://github.com/sforceas/machine-learning/blob/master/ML_Numpy.ipynb)
 
-  
+ # 3. Fundamentos de Pandas
+ 
+ Numpy es la principal libreria de python para el manejo de datos y la provisión de datos para machine learning.
+ Es muy copmleta, adecuada para el manejo de tablas, conjuntamente con numpy.
+ Ver repositorio de Collab: [Algoritmos_python/ML_Numpy.ipynb](https://github.com/sforceas/machine-learning/blob/master/ML_Pandas.ipynb)
+
