@@ -87,4 +87,3 @@ Generalmente es importante tener en cuenta varias dimensiones o variables al con
 
 Cuando nuestro modelo considera más de dos variables el algoritmo de regresión que usamos se conoce como Regresión Lineal Múltiple y este trabaja sobre un sistema de referencia conocido como hiperplano. Los algoritmos de regresión, tanto lineal como múltiple trabajan únicamente con datos de tipo cuantitativos.
 
-![](https://www.youtube.com/watch?v=k964_uNn3l0)
